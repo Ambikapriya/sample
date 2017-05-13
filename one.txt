@@ -1,2 +1,4 @@
 Hello this is sample git file...
 hey i modified this
+heoo
+ hello every one
